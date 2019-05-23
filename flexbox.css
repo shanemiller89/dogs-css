@@ -35,3 +35,7 @@ img {
 .animal {
     flex: 0 1 20%;
 }
+
+.end_footer {
+    display: flex;
+}
