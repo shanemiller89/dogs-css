@@ -1,0 +1,12 @@
+img {
+    width: 150px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.animal {
+    flex: 0 1 20%;
+}
